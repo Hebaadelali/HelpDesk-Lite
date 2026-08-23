@@ -2,7 +2,7 @@
 
 > A lightweight internal support ticketing workspace for submitting, assigning, tracking, and resolving support requests through a centralized operational workflow.
 
-**Live Demo:** https://help-desk-lite-five.vercel.app/
+**Demo:** https://help-desk-lite-five.vercel.app/
 
 ---
 
