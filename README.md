@@ -1,12 +1,6 @@
-# HelpDesk Lite — Internal Support Console
+# HelpDesk Lite: Product-to-Engineering Delivery Project
 
 > A lightweight internal support ticketing workspace for submitting, assigning, tracking, and resolving support requests through a centralized operational workflow.
-
-[![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-6-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white)](https://vite.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Recharts](https://img.shields.io/badge/Recharts-3.10-8884D8)](https://recharts.org/)
 
 **Live Demo:** https://help-desk-lite-five.vercel.app/
 
