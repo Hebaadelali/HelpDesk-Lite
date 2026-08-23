@@ -14,7 +14,7 @@
 
 ## Overview
 
-HelpDesk Lite is a frontend-only internal support ticketing workspace designed around a simple operational workflow:
+HelpDesk Lite is an internal support ticketing workspace designed around a simple operational workflow:
 
 **Submit → Assign → Handle → Track → Resolve**
 
@@ -271,7 +271,7 @@ Problem Definition
         ↓
 PRD / Requirements
         ↓
-V1 Scope & Non-Goals
+V1 Scope & Out of scope
         ↓
 Planning-Ready Breakdown
         ↓
@@ -283,18 +283,6 @@ Review & Iteration
         ↓
 Final Demo & Delivery
 ```
-
-The product planning focused on five major areas:
-
-1. Request Intake & Organization
-2. Request Ownership
-3. Request Progress & Workflow
-4. Manager / Workload Visibility
-5. V1 Scope & Self-Service Boundaries
-
-This helped keep the implementation focused on the operational workflow instead of adding features before the core problem was clearly defined.
-
----
 
 ## Execution Approach
 
@@ -342,8 +330,6 @@ HelpDesk Lite was developed through a six-day product-to-engineering workflow, c
 **Outcome:** A structured delivery board connecting product requirements with implementation tasks.
 
 ### Day 3 — AI Development Stack & Output Engineering
-
-**Focus:** Using AI tools as part of the engineering workflow rather than as a replacement for engineering decisions.
 
 - AI-assisted task mapping
 - Context and access planning
@@ -458,19 +444,6 @@ Through the development of HelpDesk Lite, the project demonstrates practical und
 - AI-assisted communication
 - Reviewing and improving AI-generated communication
 - Demo and presentation planning
-
-### Technical Implementation
-
-- React application architecture
-- TypeScript
-- React Router
-- Context + reducer state management
-- Local persistence
-- Protected routes
-- Responsive UI
-- Data visualization
-- Form validation
-- Client-side state management
 
 ---
 
